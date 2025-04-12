@@ -14,4 +14,4 @@
 ## 🛠️ Technologies Used
 
 - **HTML5**
-- **Tailwind CSS** (via CDN or local setup)
+- **Tailwind CSS** (via CDN)
